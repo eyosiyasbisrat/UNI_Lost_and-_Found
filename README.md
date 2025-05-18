@@ -59,5 +59,5 @@ This cross-platform mobile application, now built with **Flutter**, empowers stu
 
 1. **Clone the repository**
    ```bash
-[   git clone https://github.com/eyosiyasbisrat/UNI_Lost_and-_Found.git
+[   git clone https://github.com/eyosiyasbisrat/UNI-Lost-and-Found.git
    cd UNI_Lost_and_Found_app
